@@ -160,7 +160,7 @@ def run_test_even_better_draw_circles():
     # Test 2
     even_better_draw_circles(100, 10, 0, 400)
     # Test 3
-    even_better_draw_circles(500, 1, 200, 200)
+    even_better_draw_circles(300, 1, 200, 200)
 
 
 def even_better_draw_circles(n, j, x, y):
